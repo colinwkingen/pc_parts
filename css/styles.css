@@ -21,3 +21,13 @@
 .header-center {
   text-align: center;
 }
+
+.light {
+  background-color: #eef;
+  color: #220;
+}
+
+.dark {
+  background-color: #222;
+  color: #ccf;
+}
