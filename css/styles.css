@@ -10,3 +10,14 @@
 .clickable {
   text-decoration: underline;
 }
+
+.header-left {
+  text-align: left;
+}
+
+.header-right {
+  text-align: right;
+}
+.header-center {
+  text-align: center;
+}
